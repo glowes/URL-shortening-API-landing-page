@@ -1,0 +1,21 @@
+body{
+}
+
+
+.mainContainer{
+	display: grid;
+	align-items: stretch;
+	justify-content: center;
+}
+
+/*header*/
+.firstContainer{}
+.secondContainer{}
+.thirdContainer{}
+
+
+
+.forthContainer{}
+.fifthContainer{}
+.sixthContainer{}
+.seventhContainer{}
